@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @program8877
+- 👋 Hi, I’m a java coder. 
 - 👀 I’m a freelance java developer. Contact me if you want to crack your coding interview.
 <!---
 program8877/program8877 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
